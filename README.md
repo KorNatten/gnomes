@@ -1,2 +1,1 @@
-# gnomes
-Some guides for the Gnomes of GnoLand
+# Some guides and info for the Gnomes of GnoLand
