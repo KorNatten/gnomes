@@ -1,7 +1,7 @@
 # Some guides and info for the Gnomes of GnoLand
 
 
-**I invite all Gnomes to join our [constructive discussion board](https://github.com/KorNatten/gnomes/discussions)**
+**I invite all Gnomes to join our [constructive discussion board](https://github.com/KorNatten/gnomes/discussions), this will help us a lot in making the documentation on the website much faster**
 
 - [GnoLand official website](https://www.gno.land)
 - [Gnoland official twitter account](https://twitter.com/_gnoland)
