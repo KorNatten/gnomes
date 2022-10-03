@@ -3,6 +3,9 @@
 The community has the freedom to come to a concensus on governance and the constitution for GnoLand.
 This is something we're not used to in the real world and even with many blockchain projects, the most important things are already laid out by founders.
 
+Many founders and/or developers think in technical terms and only about the technical side but forget the majority of people who will be part of the community and want things clear and simple.
+As explained [here](https://github.com/KorNatten/gnomes/blob/main/GnoLand-Governance/Governance-in-Cosmos-ecosystem-sucks.md) this should start with the basics of a clear proposal. 
+
 Many people grew up without the chance to think for themselves, let alone being able to have a say about their life or community, some people actually gave up on the idea of being able to think for ourselves. Even if we can vote, we soon realise that our votes don't really count in the real world and there for start to give up on the idea that we could make a difference. It's our duty as individuals to make those people believe again in their power, we have to stop the powers that be to divide us, we need to focus on what we have in common, not about what we don't have in common. Blockchain gives us a chance to do this in a non-violent way. This can only be achieved if we unite for a better and more prosperous future.
 We have no time to lose.
 
