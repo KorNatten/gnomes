@@ -34,3 +34,5 @@ Far to many times the discussions start once the proposal is already in voting p
 |--|--|
 | <ul><li>Less dev work</li><li>We can have it under our own sub domain and people from other chains on commonwealth will still be able to see it and potentially get interested</li><li>Open source and free. The people behind commonwealth seems to be helpful too</li></ul> | <ul><li>Can we have the green, orange, red light system that either stops or allows a proposal to come on chain for voting?</li><li>Depending on third party</li><li>We still need moderators and have to use the “contact” details that people use to sign in on commonwealth. Some only use a wallet.</li></ul> |
 
+
+**I invite all Gnomes to join our [constructive discussion board](https://github.com/KorNatten/gnomes/discussions)**
